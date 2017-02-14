@@ -1,1 +1,0 @@
-{"rustc":16335750421109157632,"target":6252688742035587783,"profile":295375401175610095,"local":{"variant":"Precalculated","fields":["0.8.7"]},"features":"Some([\"default\", \"parsing\", \"printing\", \"quote\", \"unicode-xid\"])","deps":[["quote v0.2.3",6563519044806230010],["unicode-xid v0.0.3",15330605501727939470]],"rustflags":[]}
