@@ -1,0 +1,4 @@
+cargo:rustc-link-search=native=/usr/local/Cellar/libssh2/1.6.0/lib
+cargo:rustc-link-lib=ssh2
+cargo:include=/usr/local/Cellar/openssl/1.0.2h_1/include
+cargo:include=/usr/local/Cellar/libssh2/1.6.0/include

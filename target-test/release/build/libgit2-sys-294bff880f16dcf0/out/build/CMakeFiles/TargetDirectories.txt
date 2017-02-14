@@ -1,0 +1,7 @@
+/Users/becker/trash/temp-dir/target-test/release/build/libgit2-sys-294bff880f16dcf0/out/build/CMakeFiles/edit_cache.dir
+/Users/becker/trash/temp-dir/target-test/release/build/libgit2-sys-294bff880f16dcf0/out/build/CMakeFiles/rebuild_cache.dir
+/Users/becker/trash/temp-dir/target-test/release/build/libgit2-sys-294bff880f16dcf0/out/build/CMakeFiles/install/local.dir
+/Users/becker/trash/temp-dir/target-test/release/build/libgit2-sys-294bff880f16dcf0/out/build/CMakeFiles/list_install_components.dir
+/Users/becker/trash/temp-dir/target-test/release/build/libgit2-sys-294bff880f16dcf0/out/build/CMakeFiles/install.dir
+/Users/becker/trash/temp-dir/target-test/release/build/libgit2-sys-294bff880f16dcf0/out/build/CMakeFiles/install/strip.dir
+/Users/becker/trash/temp-dir/target-test/release/build/libgit2-sys-294bff880f16dcf0/out/build/CMakeFiles/git2.dir

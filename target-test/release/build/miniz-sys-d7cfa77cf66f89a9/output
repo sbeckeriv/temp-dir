@@ -1,0 +1,36 @@
+TARGET = Some("x86_64-apple-darwin")
+OPT_LEVEL = Some("3")
+TARGET = Some("x86_64-apple-darwin")
+HOST = Some("x86_64-apple-darwin")
+TARGET = Some("x86_64-apple-darwin")
+TARGET = Some("x86_64-apple-darwin")
+HOST = Some("x86_64-apple-darwin")
+CC_x86_64-apple-darwin = None
+CC_x86_64_apple_darwin = None
+HOST_CC = None
+CC = None
+HOST = Some("x86_64-apple-darwin")
+TARGET = Some("x86_64-apple-darwin")
+HOST = Some("x86_64-apple-darwin")
+CFLAGS_x86_64-apple-darwin = None
+CFLAGS_x86_64_apple_darwin = None
+HOST_CFLAGS = None
+CFLAGS = None
+PROFILE = Some("release")
+running: "cc" "-O3" "-ffunction-sections" "-fdata-sections" "-fPIC" "-m64" "-o" "/Users/becker/trash/temp-dir/target-test/release/build/miniz-sys-d7cfa77cf66f89a9/out/miniz.o" "-c" "miniz.c"
+ExitStatus(ExitStatus(0))
+TARGET = Some("x86_64-apple-darwin")
+TARGET = Some("x86_64-apple-darwin")
+HOST = Some("x86_64-apple-darwin")
+AR_x86_64-apple-darwin = None
+AR_x86_64_apple_darwin = None
+HOST_AR = None
+AR = None
+TARGET = Some("x86_64-apple-darwin")
+TARGET = Some("x86_64-apple-darwin")
+running: "ar" "crs" "/Users/becker/trash/temp-dir/target-test/release/build/miniz-sys-d7cfa77cf66f89a9/out/libminiz.a" "/Users/becker/trash/temp-dir/target-test/release/build/miniz-sys-d7cfa77cf66f89a9/out/miniz.o"
+ExitStatus(ExitStatus(0))
+TARGET = Some("x86_64-apple-darwin")
+cargo:rustc-link-lib=static=miniz
+cargo:rustc-link-search=native=/Users/becker/trash/temp-dir/target-test/release/build/miniz-sys-d7cfa77cf66f89a9/out
+cargo:root=/Users/becker/trash/temp-dir/target-test/release/build/miniz-sys-d7cfa77cf66f89a9/out

@@ -1,0 +1,1 @@
+{"rustc":16335750421109157632,"target":18175813390447582754,"profile":295375401175610095,"local":{"variant":"Precalculated","fields":["f2c867d067eac285201e53672dcc5e42c2065785"]},"features":"Some([\"cargo-fmt\", \"default\"])","deps":[["walkdir v1.0.7",7742349818805928564]],"rustflags":[]}

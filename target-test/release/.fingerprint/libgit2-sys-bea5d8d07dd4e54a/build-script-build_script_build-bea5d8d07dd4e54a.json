@@ -1,0 +1,1 @@
+{"rustc":16335750421109157632,"target":2683166615890443653,"profile":295375401175610095,"local":{"variant":"Precalculated","fields":["0.6.6"]},"features":"Some([\"curl\", \"curl-sys\", \"https\", \"libssh2-sys\", \"openssl-sys\", \"ssh\"])","deps":[["cmake v0.1.20",14950588157880162061],["gcc v0.3.43",12913618936836208075],["pkg-config v0.3.9",545119039253861905]],"rustflags":[]}

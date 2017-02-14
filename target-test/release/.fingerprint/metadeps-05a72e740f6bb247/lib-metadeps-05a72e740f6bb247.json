@@ -1,0 +1,1 @@
+{"rustc":16335750421109157632,"target":5003147274349791400,"profile":295375401175610095,"local":{"variant":"Precalculated","fields":["1.1.1"]},"features":"None","deps":[["error-chain v0.7.2",14745135093678659582],["pkg-config v0.3.9",545119039253861905],["toml v0.2.1",6777024205663168754]],"rustflags":[]}
